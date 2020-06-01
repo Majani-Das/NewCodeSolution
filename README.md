@@ -20,11 +20,11 @@
 
 	https://github.com/Majani-Das/NewCodeSolution 
 
-5. Unzip and find mysolution2 folder inside NewCodeSolution-master folder
+5.Unzip and find mysolution2 folder inside NewCodeSolution-master folder
 
-6. Navigate to the mysolution2 folder in command prompt
+6.Navigate to the mysolution2 folder in command prompt
 
-7. Run the following command to package the project
+7.Run the following command to package the project
 
 	mvn clean dependency:copy-dependencies package
 
@@ -35,4 +35,4 @@
 Example:
 	java -jar target/mysolution2-1.0-jar-with-dependencies.jar Z:\Input.json Z:\OutputFile.json
 
-9. Open and check the OutputFile.json
+9.Open and check the OutputFile.json
