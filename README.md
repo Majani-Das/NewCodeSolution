@@ -12,8 +12,8 @@
 
 	JAVA_HOME to point jdk folder (example - C:\Program Files\Java\jdk1.8.0_251)
 	PATH to include %JAVA_HOME%\bin and apache-maven\bin (example- C:\apache-maven-3.6.3\bin)
-
-(For reference ----- https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html)
+	
+        (For reference - https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html)
 
  
 3.Download the mysolution2 folder from https://github.com/Majani-Das/NewCodeSolution as zip
