@@ -16,7 +16,9 @@
         (For reference - https://www3.ntu.edu.sg/home/ehchua/programming/howto/Environment_Variables.html)
 
  
-4.Download the mysolution2 folder from https://github.com/Majani-Das/NewCodeSolution as zip
+4.Download the mysolution2 folder as zip from the below github location
+
+	https://github.com/Majani-Das/NewCodeSolution 
 
 5. Unzip and find mysolution2 folder inside NewCodeSolution-master folder
 
