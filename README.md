@@ -4,10 +4,12 @@
 	Verify by using javac -version command on your terminal
 
 2.Download and Install Maven(if not already installed)
+
 	https://maven.apache.org/download.cgi
 	Installation instructions - https://maven.apache.org/install.html
 
 3.Set environment variables(if not already set)
+
 	JAVA_HOME to point jdk folder (example - C:\Program Files\Java\jdk1.8.0_251)
 	PATH to include %JAVA_HOME%\bin and apache-maven\bin (example- C:\apache-maven-3.6.3\bin)
 
